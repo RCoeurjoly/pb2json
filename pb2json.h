@@ -1,4 +1,4 @@
-#include <jansson.h>
+#include </usr/local/jansson-2.12/include/jansson.h>
 #include <string>
 #include <google/protobuf/descriptor.h>
 #include <google/protobuf/message.h>
